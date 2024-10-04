@@ -124,7 +124,9 @@ print_state_value_function(V_best_v, P, prec=4)
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+![image](https://github.com/user-attachments/assets/4f01ca46-0f63-491d-98a0-5c929cf424bd)
+![image](https://github.com/user-attachments/assets/bd8ef5aa-63b2-4301-bba7-beabed45bbe3)
+![image](https://github.com/user-attachments/assets/8d57c889-0262-46bc-95b9-2b638c4a6aad)
 
 ## RESULT:
 
